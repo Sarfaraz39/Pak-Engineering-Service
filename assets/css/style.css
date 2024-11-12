@@ -3218,8 +3218,8 @@ div#mCSB_1_container {
 }
 
 .testimonial-block-one .inner-box {
-  background: #fff;
-  padding: 50px 40px 60px 60px;
+  background: #ffffff00;
+  padding: 150px 20px 260px 60px;
 }
 
 .testimonial-block-one .inner-box .icon-box {
@@ -3240,8 +3240,8 @@ div#mCSB_1_container {
 }
 
 .testimonial-block-one .inner-box .author-box .author-thumb img {
-  width: 100%;
-  border-radius: 50%;
+  width: 310%;
+  border-radius: 0%;
 }
 
 .testimonial-block-one .inner-box .author-box h5 {
@@ -3271,7 +3271,7 @@ div#mCSB_1_container {
   width: 60px;
   height: 60px;
   line-height: 66px;
-  background: #fff;
+  background: #05af13;
   font-size: 30px;
   border-radius: 50%;
   text-align: center;
